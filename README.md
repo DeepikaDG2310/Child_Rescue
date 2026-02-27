@@ -1,5 +1,5 @@
 # child-rescue
-The following tool was created to assist with eveidence collection during investigations
+The following tool was created to assist with eveidence collection during investigations as part of continuous on going project.
 
 ## Description
 This project performs the following operations
